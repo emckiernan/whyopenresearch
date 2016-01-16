@@ -7,7 +7,7 @@ Many researchers support the idea of increasing access to research, but worry ab
 # Who are we?
 
 ### Erin McKiernan: Concept development, web development 
-Erin received her PhD in Physiological Sciences from the University of Arizona in 2010. She is currently a Professor in the Department of Physics (Biomedical Physics Program) at the National Autonomous University of Mexico. She is an advocate for open access, open data, and open science. Find out more about her research, advocacy work, and experiences with open science at [emckiernan.wordpress.com](https://emckiernan.wordpress.com/). Follow her on Twitter at [@emckiernan13](https://twitter.com/emckiernan13). (Photo credit: Elena Giglia) 
+Erin received her PhD in Physiological Sciences from the University of Arizona in 2010. She is currently a Professor in the Department of Physics (Biomedical Physics Program) at the National Autonomous University of Mexico. She is an advocate for open access, open data, and open science. Find out more about her research, advocacy work, and experiences with open science at [emckiernan.wordpress.com](https://emckiernan.wordpress.com/). Follow her on Twitter at [@emckiernan13](https://twitter.com/emckiernan13). 
 
 ### John McKiernan: Artist 
 John McKiernan is a retired middle school art teacher and writer. He has been a university lecturer (Hawaii), an archaeologist (England), and a freelance illustrator and artist (many places). Currently he provides graphics and custom equipment design for his wife Maggie’s education consultancy business, Quality Time.
